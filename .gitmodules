@@ -1,6 +1,3 @@
-[submodule "dataModel.WaterQuality"]
-	path = dataModel.WaterQuality
-	url = https://github.com/smart-data-models/dataModel.WaterQuality.git
 [submodule "dataModel.WaterConsumption"]
 	path = dataModel.WaterConsumption
 	url = https://github.com/smart-data-models/dataModel.WaterConsumption.git
