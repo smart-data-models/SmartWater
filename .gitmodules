@@ -13,3 +13,6 @@
 [submodule "dataModel.WaterNetworkManagement"]
 	path = dataModel.WaterNetworkManagement
 	url = https://github.com/smart-data-models/dataModel.WaterNetworkManagement.git
+[submodule "dataModel.WaterQuality"]
+	path = dataModel.WaterQuality
+	url = https://github.com/smart-data-models/dataModel.WaterQuality.git
