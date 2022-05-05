@@ -1,9 +1,6 @@
 [submodule "dataModel.RawWaterManagement"]
 	path = dataModel.RawWaterManagement
 	url = https://github.com/smart-data-models/dataModel.RawWaterManagement.git
-[submodule "dataModel.WaterDistribution"]
-	path = dataModel.WaterDistribution
-	url = https://github.com/smart-data-models/dataModel.WaterDistribution.git
 [submodule "dataModel.WaterNetworkManagement"]
 	path = dataModel.WaterNetworkManagement
 	url = https://github.com/smart-data-models/dataModel.WaterNetworkManagement.git
