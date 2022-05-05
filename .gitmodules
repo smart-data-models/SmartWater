@@ -7,9 +7,6 @@
 [submodule "dataModel.WaterQuality"]
 	path = dataModel.WaterQuality
 	url = https://github.com/smart-data-models/dataModel.WaterQuality.git
-[submodule "dataModel.WaterDistributionManagementEPANET"]
-	path = dataModel.WaterDistributionManagementEPANET
-	url = https://github.com/smart-data-models/dataModel.WaterDistributionManagementEPANET.git
 [submodule "dataModel.OpenChannelManagement"]
 	path = dataModel.OpenChannelManagement
 	url = https://github.com/smart-data-models/dataModel.OpenChannelManagement.git
