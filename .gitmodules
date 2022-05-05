@@ -19,3 +19,6 @@
 [submodule "dataModel.WaterConsumption"]
 	path = dataModel.WaterConsumption
 	url = https://github.com/smart-data-models/dataModel.WaterConsumption.git
+[submodule "dataModel.WaterDistribution"]
+	path = dataModel.WaterDistribution
+	url = https://github.com/smart-data-models/dataModel.WaterDistribution.git
