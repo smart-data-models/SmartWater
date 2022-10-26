@@ -19,3 +19,6 @@
 [submodule "dataModel.WaterDistribution"]
 	path = dataModel.WaterDistribution
 	url = https://github.com/smart-data-models/dataModel.WaterDistribution.git
+[submodule "dataModel.WaterDistributionManagementEPANET"]
+	path = dataModel.WaterDistributionManagementEPANET
+	url = https://github.com/smart-data-models/dataModel.WaterDistributionManagementEPANET.git
