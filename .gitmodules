@@ -19,3 +19,6 @@
 [submodule "dataModel.OpenChannelManagement"]
 	path = dataModel.OpenChannelManagement
 	url = https://github.com/smart-data-models/dataModel.OpenChannelManagement.git
+[submodule "dataModel.WasteWater"]
+	path = dataModel.WasteWater
+	url = https://github.com/smart-data-models/dataModel.WasteWater.git
